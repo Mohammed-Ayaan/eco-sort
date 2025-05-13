@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.10","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-05-04T04:31:59.779Z","userMetadata":{},"modelName":"Waste_Classifier","labels":["E-waste","Automobile Wastes","Battery Waste","Glass Waste","Light Bulbs","Metal Waste","Organic Waste","Paper Waste","Plastic Waste","Background"],"imageSize":224}
